@@ -16,6 +16,16 @@ function ContriList() {
                         target="_blank" variant="success">Go to the Repository</Button>
                 </Card.Body>
             </Card>
+            <Card className='github-link m-2' style={{ maxWidth: '1000px' }}>
+                <Card.Body>
+                    <Card.Title>2</Card.Title>
+                    <Card.Text>
+                        Update index.md for ou #18345
+                    </Card.Text>
+                    <Button href='https://github.com/mdn/translated-content/pull/18345#event-11952988879'
+                        target="_blank" variant="success">Go to the Repository</Button>
+                </Card.Body>
+            </Card>
         </div>
     );
 }
