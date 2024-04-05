@@ -46,7 +46,7 @@ function ContriList() {
                     <Card.Text>
                         fr_single_double_quote problem fixed #18365
                     </Card.Text>
-                    <Button href='https://github.com/mdn/translated-content/pull/18365/files'
+                    <Button href='https://github.com/mdn/translated-content/pull/18365#event-12374941527'
                         target="_blank" variant="success">Go to the Repository</Button>
                 </Card.Body>
             </Card>
