@@ -28,21 +28,9 @@ function ContriList() {
                 </Card.Body>
             </Card>
 
-
             <Card className='github-link m-2' style={{ maxWidth: '1000px' }}>
                 <Card.Body>
                     <Card.Title>3</Card.Title>
-                    <Card.Text>
-                        error in example "Single or double quotes?" #17954
-                    </Card.Text>
-                    <Button href='https://github.com/mdn/translated-content/issues/17954'
-                        target="_blank" variant="success">Go to the Repository</Button>
-                </Card.Body>
-            </Card>
-
-            <Card className='github-link m-2' style={{ maxWidth: '1000px' }}>
-                <Card.Body>
-                    <Card.Title>4</Card.Title>
                     <Card.Text>
                         fr_single_double_quote problem fixed #18365
                     </Card.Text>
